@@ -1,7 +1,7 @@
 # DataCamp Projects
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
-These project showcase skills I have developed in Data Science.
+These projects showcase skills I have developed in Data Science.
 
 - Guided: projects with detailed instructions and tests for checking results.
 - Unguided: projects with relatively few instructions and no preprogrammed tests.
