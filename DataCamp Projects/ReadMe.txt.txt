@@ -1,0 +1,1 @@
+Note that these projects are copied from DataCamp. Most of the text and some of the code is not my original work. These are placed here to show skills I have developed in coding, etc.
