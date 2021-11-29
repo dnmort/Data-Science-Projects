@@ -1,6 +1,9 @@
-This folder contains projects I completed on DataCamp (datacamp.com). These are placed here to show skills I have developed in coding, etc.
+# DataCamp Projects
+This folder contains projects I completed on DataCamp (datacamp.com). 
 
-Guided projects come with more detailed instructions and tests to confirm I am getting the correct results.
-Unguided projects have significantly fewer instructions and no preprogrammed tests.
+These project skills I have developed in Data Science.
 
-Note: these projects are pdf copies of the projects completed on DataCamp. Not all of the content (especially the text) is my original work. 
+- Guided: projects with detailed instructions and tests for checking results.
+- Unguided: projects with relatively few instructions and no preprogrammed tests.
+
+Note: these projects are pdf copies of the projects completed on DataCamp. Not all of the content, especially that found in the markdwon cells, is my original work. 
