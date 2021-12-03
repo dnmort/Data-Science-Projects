@@ -41,6 +41,7 @@ I would like to thank all of my BrainStation instructors for their support on th
 
 
 ## BrainStation Projects
+![BrainStation Logo](/assets/BrainStation_Primary_Logo.png)
 This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
 
 These projects showcase skills I have developed in Data Science, including:
@@ -55,6 +56,7 @@ These projects showcase skills I have developed in Data Science, including:
 
 
 ## DataCamp Projects
+![DataCamp Logo](/assets/datacamp.png)
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
 These projects showcase skills I have developed in Data Science.
