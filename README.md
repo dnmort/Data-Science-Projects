@@ -1,6 +1,9 @@
 # Data-Science-Projects
 
-This repository holds my data science projects.
+This repository holds my data science projects, including:
+- My main portfolio project: **Regression Models for Predicting Commodity Sales Prices**
+- Various projects I completed while in the BrainStation Online Bootcamp (brainstation.io): **BrainStation Projects**
+- Various projects I completed on DataCamp (datacamp.com): **DataCamp Projects**
 
 
 ## Regression Models for Predicting Commodity Sales Prices
