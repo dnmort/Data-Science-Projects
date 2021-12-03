@@ -1,4 +1,5 @@
 # Regression Models for Predicting Commodity Sales Prices
+![image of corn](/assets/corn_image.png)
 This folder contains all of the files relevant to my BrainStation Capstone Project:
 ***Regression Models for Predicting Commodity Sales Prices***
 by Daniel Mortensen
