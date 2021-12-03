@@ -1,4 +1,5 @@
 # BrainStation Projects
+![BrainStation Logo](../assets/BrainStation_Primary_Logo.png)
 This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
 
 These projects showcase skills I have developed in Data Science, including:
