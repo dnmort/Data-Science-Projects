@@ -37,6 +37,20 @@ by Daniel Mortensen
 I would like to thank all of my BrainStation instructors for their support on this project. I would also like to thank my wife and children for their patience as I've taught myself a little data science.
 
 
+## BrainStation Projects
+This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
+
+These projects showcase skills I have developed in Data Science, including:
+
+- **Data Analysis in SQL**: *Bixi Project - Part 1*
+- **Visual Analytics in Tableau**: *Bixi Project - Part 2*
+- **Cleaning and EDA**: *Statistics & Public Health 1*
+- **Data Analysis**: *Statistics & Public Health 2*
+- **Exploratory Data Analysis & Data Wrangling**: *Natural Language Processing With Hotel Review Part 1*
+- **Modeling**: *Natural Language Processing With Hotel Review Part 2*
+- **Big Data Fundamentals**: *Big Data Wrangling With Google Books Ngrams*
+
+
 ## DataCamp Projects
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
