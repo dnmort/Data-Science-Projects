@@ -1,6 +1,6 @@
 # DataCamp Guided Projects
 ![DataCamp Logo](../../assets/datacamp.png)
-This folder contains projects I completed on DataCamp ([datacamp.com]). 
+This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)). 
 
 **Guided Projects** come with detailed instructions and tests for checking results.
 
