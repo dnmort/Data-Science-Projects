@@ -1,4 +1,4 @@
-# DataCamp Guided Projects
+# Guided DataCamp Projects
 ![DataCamp Logo](../../assets/datacamp.png)
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)). 
 
