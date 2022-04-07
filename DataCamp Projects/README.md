@@ -2,7 +2,13 @@
 ![DataCamp Logo](../assets/datacamp.png)
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
-These projects showcase skills I have developed in Data Science.
+These projects showcase skills I have developed using:
 
-- **Guided**: projects with detailed instructions and tests for checking results.
-- **Unguided**: projects with relatively few instructions and no preprogrammed tests.
+- **Python**
+![Python Logo](../assets/python.png)
+
+- **SQL** (SQL server)
+![SQL Logo](../assets/SQL.png)
+
+- **R**
+![R Logo](../assets/R.png)
