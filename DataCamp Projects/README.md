@@ -1,5 +1,5 @@
 # DataCamp Projects
-![DataCamp Logo](../assets/datacamp.png)
+![DataCamp Logo](../assets/datacamp.png)  
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
 These projects showcase skills I have developed using:

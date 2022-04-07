@@ -1,5 +1,5 @@
 # R Projects (DataCamp)  
-![R Logo](../../assets/R.png)
+![R Logo](../../assets/R.png)  
 This folder contains projects I completed on DataCamp (datacamp.com). 
 
 These projects showcase skills I have developed using **R**
