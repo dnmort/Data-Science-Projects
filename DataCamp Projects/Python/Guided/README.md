@@ -1,4 +1,4 @@
-# Guided DataCamp Projects
+# Guided Python Projects (DataCamp)
 ![Python Logo](../../../assets/python.png)  
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
 
