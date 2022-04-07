@@ -1,4 +1,4 @@
-# SQL Projects (DataCamp)  
+# Guided SQL Projects (DataCamp)  
 ![SQL Logo](../../assets/SQL.png)  
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **SQL**  
 (SQL server, in a Jupyter Notebook)
