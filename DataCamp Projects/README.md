@@ -4,11 +4,11 @@ This folder contains projects I completed on DataCamp (datacamp.com).
 
 These projects showcase skills I have developed using:
 
-- **Python**
+- **Python**  
 ![Python Logo](../assets/python.png)
 
-- **SQL** (SQL server)
+- **SQL** (SQL server)  
 ![SQL Logo](../assets/SQL.png)
 
-- **R**
+- **R**  
 ![R Logo](../assets/R.png)
