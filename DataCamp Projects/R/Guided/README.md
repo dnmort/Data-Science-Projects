@@ -7,4 +7,4 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 - **html** copies of the completed projects are located in the folder *HTMLs*
 - **pdf** copies of the completed projects are located in the folder *PDFs*
 
-*Note*: Much of the content in these files, especially that found in markdwon cells, is not my original work. 
+*Note*: Much of the content in these files, especially that found in markdown cells, is not my original work. 

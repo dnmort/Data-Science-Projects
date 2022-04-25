@@ -2,7 +2,7 @@
 ![R Logo](../../../assets/R.png)  
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **R**
 
-**Unguided Projects** come with relatively few instructions and no preprogrammed tests.
+**Unguided Projects** come with relatively few instructions.
 
 - **html** copies of the completed projects are located in the folder *HTMLs*
 - **pdf** copies of the completed projects are located in the folder *PDFs*

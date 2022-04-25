@@ -3,4 +3,4 @@
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
 
 - **Guided**: projects with detailed instructions and tests for checking results.
-- **Unguided**: projects with relatively few instructions and no preprogrammed tests.
+- **Unguided**: projects with relatively few instructions.
