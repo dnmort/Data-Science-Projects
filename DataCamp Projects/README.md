@@ -6,9 +6,15 @@ These projects showcase skills I have developed using:
 
 - **Python**  
 ![Python Logo](../assets/python.png)
+    - 8 guided projects
+    - 0 unguided projects
 
 - **SQL** (SQL server)  
 ![SQL Logo](../assets/SQL.png)
+    - 7 guided projects
+    - 2 unguided projects
 
 - **R**  
 ![R Logo](../assets/R.png)
+    - 0 guided projects
+    - 0 unguided projects

@@ -1,9 +1,51 @@
 # Data-Science-Projects
 
 This repository holds my data science projects, including:
-- My main portfolio project: **Regression Models for Predicting Commodity Sales Prices**
-- Various projects I completed while in the BrainStation Online Bootcamp (brainstation.io): **BrainStation Projects**
 - Various projects I completed on DataCamp (datacamp.com): **DataCamp Projects**
+- Various projects I completed while in the BrainStation Online Bootcamp (brainstation.io): **BrainStation Projects**
+- My main portfolio project: **Regression Models for Predicting Commodity Sales Prices**
+
+
+## DataCamp Projects
+![DataCamp Logo](/assets/datacamp.png)
+This folder contains projects I completed on DataCamp (datacamp.com).  
+
+These projects showcase skills I have developed using:
+
+- **Python**  
+![Python Logo](./assets/python.png)
+    - 8 guided projects
+    - 0 unguided projects
+
+- **SQL** (SQL server)  
+![SQL Logo](./assets/SQL.png)
+    - 7 guided projects
+    - 2 unguided projects
+
+- **R**  
+![R Logo](./assets/R.png)
+    - 0 guided projects
+    - 0 unguided projects
+
+- **Guided**: projects with detailed instructions and tests for checking results.
+- **Unguided**: projects with relatively few instructions and no preprogrammed tests.
+
+*Note*: not all of the content in these projects, especially that found in the markdwon cells, is my original work. 
+
+
+## BrainStation Projects
+![BrainStation Logo](/assets/BrainStation_Primary_Logo.png)
+This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
+
+These projects showcase skills I have developed in Data Science, including:
+
+- **Data Analysis in SQL**: *Bixi Project - Part 1*
+- **Visual Analytics in Tableau**: *Bixi Project - Part 2*
+- **Cleaning and EDA**: *Statistics & Public Health 1*
+- **Data Analysis**: *Statistics & Public Health 2*
+- **Exploratory Data Analysis & Data Wrangling**: *Natural Language Processing With Hotel Review Part 1*
+- **Modeling**: *Natural Language Processing With Hotel Review Part 2*
+- **Big Data Fundamentals**: *Big Data Wrangling With Google Books Ngrams*
 
 
 ## Regression Models for Predicting Commodity Sales Prices
@@ -38,41 +80,4 @@ by Daniel Mortensen
 - Much of the code in this project is borrowed and adapted from other sources, especially from the proprietary lesson material provided by BrainStation. To the best of my knowledge, all material has been used in a copyright appropriate manner.
 
 ### Acknowledgments
-I would like to thank all of my BrainStation instructors for their support on this project. I would also like to thank my wife and children for their patience as I've taught myself a little data science.
-
-
-## BrainStation Projects
-![BrainStation Logo](/assets/BrainStation_Primary_Logo.png)
-This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
-
-These projects showcase skills I have developed in Data Science, including:
-
-- **Data Analysis in SQL**: *Bixi Project - Part 1*
-- **Visual Analytics in Tableau**: *Bixi Project - Part 2*
-- **Cleaning and EDA**: *Statistics & Public Health 1*
-- **Data Analysis**: *Statistics & Public Health 2*
-- **Exploratory Data Analysis & Data Wrangling**: *Natural Language Processing With Hotel Review Part 1*
-- **Modeling**: *Natural Language Processing With Hotel Review Part 2*
-- **Big Data Fundamentals**: *Big Data Wrangling With Google Books Ngrams*
-
-
-## DataCamp Projects
-![DataCamp Logo](/assets/datacamp.png)
-This folder contains projects I completed on DataCamp (datacamp.com).  
-
-These projects showcase skills I have developed using:
-
-- **Python**  
-![Python Logo](./assets/python.png)
-
-- **SQL** (SQL server)  
-![SQL Logo](./assets/SQL.png)
-
-- **R**  
-![R Logo](./assets/R.png)
-
-There are 2 main types of projects in this folder:  
-- **Guided**: projects with detailed instructions and tests for checking results.
-- **Unguided**: projects with relatively few instructions and no preprogrammed tests.
-
-*Note*: not all of the content in these projects, especially that found in the markdwon cells, is my original work. 
+I would like to thank all of my BrainStation instructors for their support on this project. I would also like to thank my wife and children for their patience as I've taught myself a little data science.  
