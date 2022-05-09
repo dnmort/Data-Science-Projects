@@ -3,9 +3,9 @@
 This repository holds my data science projects, including:
 - Various projects I completed on DataCamp (datacamp.com): **DataCamp Projects**
 - Various projects I completed while in the BrainStation Online Bootcamp (brainstation.io): **BrainStation Projects**
-- My main portfolio project: **Regression Models for Predicting Commodity Sales Prices**
-
-
+- My main portfolio project: **Regression Models for Predicting Commodity Sales Prices**  
+  
+  
 ## DataCamp Projects
 ![DataCamp Logo](/assets/datacamp.png)
 This folder contains projects I completed on DataCamp (datacamp.com).  
@@ -30,9 +30,9 @@ These projects showcase skills I have developed using:
 - **Guided**: projects with detailed instructions and tests for checking results.
 - **Unguided**: projects with relatively few instructions and no preprogrammed tests.
 
-*Note*: not all of the content in these projects, especially that found in the markdwon cells, is my original work. 
-
-
+*Note*: not all of the content in these projects, especially that found in the markdwon cells, is my original work.  
+  
+  
 ## BrainStation Projects
 ![BrainStation Logo](/assets/BrainStation_Primary_Logo.png)
 This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
