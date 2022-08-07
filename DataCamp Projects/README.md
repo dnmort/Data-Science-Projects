@@ -12,9 +12,4 @@ These projects showcase skills I have developed using:
 - **SQL** (SQL server)  
 ![SQL Logo](../assets/SQL.png)
     - 7 guided projects
-    - 2 unguided projects
-
-- **R**  
-![R Logo](../assets/R.png)
-    - 0 guided projects
-    - 0 unguided projects
+    - 3 unguided projects
