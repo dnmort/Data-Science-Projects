@@ -1,46 +1,8 @@
 # Guided Python Projects (DataCamp)
-![Python Logo](../../../assets/python.png)
-  This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
+![Python Logo](../../../assets/python.png)<br>This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
 
 These are **Guided** projects, with detailed instructions and tests for checking results.
 
-<ins>Projects listed by category</ins>:
-     Applied Finance
-  	- "Predicting Credit Card Approvals"
-     Case Studies
-  	- "Introduction to DataCamp Projects"
-  	- "Dr. Semmelweis and the Discovery of Handwashing"
-  	- "Investigating Netflix Movies and Guest Stars in The Office"
-     Data Manipulation
-  	- "A Visual History of Nobel Prize Winners"
-  	- "The Android App Market on Google Play"
-  	- "The GitHub History of the Scala Language"
-  	- "Predicting Credit Card Approvals"
-  	- "Introduction to DataCamp Projects"
-  	- "Dr. Semmelweis and the Discovery of Handwashing"
-  	- "Investigating Netflix Movies and Guest Stars in The Office"
-     Data Visualization
-  	- "A Visual History of Nobel Prize Winners"
-  	- "The Android App Market on Google Play"
-  	- "The GitHub History of the Scala Language"
-  	- "Introduction to DataCamp Projects"
-  	- "Dr. Semmelweis and the Discovery of Handwashing"
-  	- "Investigating Netflix Movies and Guest Stars in The Office"
-     Importing & Cleaning Data
-  	- "A Visual History of Nobel Prize Winners"
-  	- "The Android App Market on Google Play"
-  	- "The GitHub History of the Scala Language"
-  	- "Predicting Credit Card Approvals"
-  	- "Introduction to DataCamp Projects"
-  	- "Dr. Semmelweis and the Discovery of Handwashing"
-     Machine Learning
-  	- "Predicting Credit Card Approvals"
-     Probability & Statistics
-  	- "The Android App Market on Google Play"
-  	- "Dr. Semmelweis and the Discovery of Handwashing"
-     Programming
-  	- "Writing Functions for Product Analysis"
-  	- "Investigating Netflix Movies and Guest Stars in The Office"
-  
+<ins>Projects listed by category</ins>:<br>   Applied Finance<br>	- "Predicting Credit Card Approvals"<br>   Case Studies<br>	- "Introduction to DataCamp Projects"<br>	- "Dr. Semmelweis and the Discovery of Handwashing"<br>	- "Investigating Netflix Movies and Guest Stars in The Office"<br>   Data Manipulation<br>	- "A Visual History of Nobel Prize Winners"<br>	- "The Android App Market on Google Play"<br>	- "The GitHub History of the Scala Language"<br>	- "Predicting Credit Card Approvals"<br>	- "Introduction to DataCamp Projects"<br>	- "Dr. Semmelweis and the Discovery of Handwashing"<br>	- "Investigating Netflix Movies and Guest Stars in The Office"<br>   Data Visualization<br>	- "A Visual History of Nobel Prize Winners"<br>	- "The Android App Market on Google Play"<br>	- "The GitHub History of the Scala Language"<br>	- "Introduction to DataCamp Projects"<br>	- "Dr. Semmelweis and the Discovery of Handwashing"<br>	- "Investigating Netflix Movies and Guest Stars in The Office"<br>   Importing & Cleaning Data<br>	- "A Visual History of Nobel Prize Winners"<br>	- "The Android App Market on Google Play"<br>	- "The GitHub History of the Scala Language"<br>	- "Predicting Credit Card Approvals"<br>	- "Introduction to DataCamp Projects"<br>	- "Dr. Semmelweis and the Discovery of Handwashing"<br>   Machine Learning<br>	- "Predicting Credit Card Approvals"<br>   Probability & Statistics<br>	- "The Android App Market on Google Play"<br>	- "Dr. Semmelweis and the Discovery of Handwashing"<br>   Programming<br>	- "Writing Functions for Product Analysis"<br>	- "Investigating Netflix Movies and Guest Stars in The Office"<br>
 
 Projects are provided in *.ipynb* (Jupyter notebook), *.html*, & *.pdf* formats.

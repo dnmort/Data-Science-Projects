@@ -8,40 +8,9 @@ This repository holds my data science projects, including:
   
   
 ## DataCamp Projects
-![DataCamp Logo](assets/datacamp.png)
-  This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)).  
+![DataCamp Logo](assets/datacamp.png)<br>This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)).  
 
-These projects showcase skills I have developed using:
-  
-  **Python**
-  ![Python Logo](assets/python.png) 
-  	- 8 guided projects
-  	- 0 unguided projects
-  
-  	<u>These projects focus on the following topics</u>:
-  	- Applied Finance
-  	- Case Studies
-  	- Data Manipulation
-  	- Data Visualization
-  	- Importing & Cleaning Data
-  	- Machine Learning
-  	- Probability & Statistics
-  	- Programming
-  
-  
-  **SQL** (SQL server)
-  ![SQL Logo](assets/SQL.png)
-  	- 7 guided projects
-  	- 3 unguided projects
-  
-  	<u>These projects focus on the following topics</u>:
-  	- Case Studies
-  	- Data Manipulation
-  	- Data Visualization
-  	- Importing & Cleaning Data
-  	- Programming
-  
-  
+These projects showcase skills I have developed using:<br><br>**Python**<br>![Python Logo](assets/python.png) <br>	- 8 guided projects<br>	- 0 unguided projects<br><br>	<ins>These projects focus on the following topics</ins>:<br>	- Applied Finance<br>	- Case Studies<br>	- Data Manipulation<br>	- Data Visualization<br>	- Importing & Cleaning Data<br>	- Machine Learning<br>	- Probability & Statistics<br>	- Programming<br><br><br>**SQL** (SQL server)<br>![SQL Logo](assets/SQL.png)<br>	- 7 guided projects<br>	- 3 unguided projects<br><br>	<ins>These projects focus on the following topics</ins>:<br>	- Case Studies<br>	- Data Manipulation<br>	- Data Visualization<br>	- Importing & Cleaning Data<br>	- Programming<br><br>
 - **Guided**: projects with detailed instructions and tests for checking results.
 - **Unguided**: projects with relatively few instructions.
 
