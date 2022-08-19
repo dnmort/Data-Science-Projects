@@ -4,7 +4,7 @@
 
 **Unguided Projects** come with relatively few instructions.
 
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
   
 
 Projects are provided in *.ipynb* (Jupyter notebook), *.html*, & *.pdf* formats.

@@ -5,7 +5,7 @@
 - **Guided**: projects with detailed instructions and tests for checking results.
     - 8 guided projects
 
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
      Applied Finance
   	- "Predicting Credit Card Approvals"
      Case Studies
@@ -47,7 +47,7 @@
 - **Unguided**: projects with relatively few instructions.
     - 0 unguided projects
     
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
   
 
 Projects are provided in *.ipynb* (Jupyter notebook), *.html*, & *.pdf* formats.

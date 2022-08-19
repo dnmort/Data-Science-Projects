@@ -5,7 +5,7 @@
 
 **Unguided Projects** come with relatively few instructions.
 
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
      Case Studies
   	- "Analyzing Unicorn Companies"
   	- "Online News SQL Certification"

@@ -5,7 +5,7 @@
 
 These are **Guided** projects, with detailed instructions and tests for checking results.
 
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
      Case Studies
   	- "Introduction to DataCamp Projects"
      Data Manipulation

@@ -6,7 +6,7 @@
 - **Guided**: projects with detailed instructions and tests for checking results.
     - 7 guided projects
 
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
      Case Studies
   	- "Introduction to DataCamp Projects"
      Data Manipulation
@@ -29,7 +29,7 @@
 - **Unguided**: projects with relatively few instructions.
     - 3 unguided projects
     
-<u>Projects listed by category<\u>:
+<u>Projects listed by category</u>:
      Case Studies
   	- "Analyzing Unicorn Companies"
   	- "Online News SQL Certification"

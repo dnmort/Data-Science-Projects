@@ -9,7 +9,7 @@ These projects showcase skills I have developed using:
   	- 8 guided projects
   	- 0 unguided projects
   
-  	<u>These projects focus on the following topics<\u>:
+  	<u>These projects focus on the following topics</u>:
   	- Applied Finance
   	- Case Studies
   	- Data Manipulation
@@ -25,7 +25,7 @@ These projects showcase skills I have developed using:
   	- 7 guided projects
   	- 3 unguided projects
   
-  	<u>These projects focus on the following topics<\u>:
+  	<u>These projects focus on the following topics</u>:
   	- Case Studies
   	- Data Manipulation
   	- Data Visualization
