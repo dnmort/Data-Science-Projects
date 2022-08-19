@@ -1,43 +1,43 @@
 # SQL Projects (DataCamp)  
 ![SQL Logo](../../assets/SQL.png)
-This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **SQL**
-(SQL server, in a Jupyter Notebook)
+  This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **SQL**
+  (SQL server, in a Jupyter Notebook)
 
 - **Guided**: projects with detailed instructions and tests for checking results.
     - 7 guided projects
 
 <u>Projects listed by category<\u>:
-   Case Studies
-	- "Introduction to DataCamp Projects"
-   Data Manipulation
-	- "When Was the Golden Age of Video Games?"
-	- "What and Where are the World's Oldest Businesses"
-	- "Analyze International Debt Statistics"
-	- "Introduction to DataCamp Projects"
-	- "Optimizing Online Sports Retail Revenue"
-	- "Analyzing American Baby Name Trends"
-	- "Analyzing NYC Public School Test Result Scores"
-   Data Visualization
-	- "Introduction to DataCamp Projects"
-   Importing & Cleaning Data
-	- "Analyze International Debt Statistics"
-	- "Introduction to DataCamp Projects"
-   Programming
-	- "Analyzing NYC Public School Test Result Scores"
-
+     Case Studies
+  	- "Introduction to DataCamp Projects"
+     Data Manipulation
+  	- "When Was the Golden Age of Video Games?"
+  	- "What and Where are the World's Oldest Businesses"
+  	- "Analyze International Debt Statistics"
+  	- "Introduction to DataCamp Projects"
+  	- "Optimizing Online Sports Retail Revenue"
+  	- "Analyzing American Baby Name Trends"
+  	- "Analyzing NYC Public School Test Result Scores"
+     Data Visualization
+  	- "Introduction to DataCamp Projects"
+     Importing & Cleaning Data
+  	- "Analyze International Debt Statistics"
+  	- "Introduction to DataCamp Projects"
+     Programming
+  	- "Analyzing NYC Public School Test Result Scores"
+  
 
 - **Unguided**: projects with relatively few instructions.
     - 3 unguided projects
     
 <u>Projects listed by category<\u>:
-   Case Studies
-	- "Analyzing Unicorn Companies"
-	- "Online News SQL Certification"
-	- "Symphony Celebration SQL Certification"
-   Data Manipulation
-	- "Online News SQL Certification"
-	- "Symphony Celebration SQL Certification"
-   Importing & Cleaning Data
-	- "Analyzing Unicorn Companies"
-	- "Online News SQL Certification"
-
+     Case Studies
+  	- "Analyzing Unicorn Companies"
+  	- "Online News SQL Certification"
+  	- "Symphony Celebration SQL Certification"
+     Data Manipulation
+  	- "Online News SQL Certification"
+  	- "Symphony Celebration SQL Certification"
+     Importing & Cleaning Data
+  	- "Analyzing Unicorn Companies"
+  	- "Online News SQL Certification"
+  
