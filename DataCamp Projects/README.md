@@ -5,7 +5,7 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 These projects showcase skills I have developed using:
 
 **Python**
-![Python Logo](../assets/python.png)
+![Python Logo](../assets/python.png) 
 	- 8 guided projects
 	- 0 unguided projects
 
