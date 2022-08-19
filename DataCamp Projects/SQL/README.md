@@ -6,6 +6,7 @@
 
 <ins>Projects listed by category</ins>:<br>   Case Studies<br>	- "Introduction to DataCamp Projects"<br>   Data Manipulation<br>	- "When Was the Golden Age of Video Games?"<br>	- "What and Where are the World's Oldest Businesses"<br>	- "Analyze International Debt Statistics"<br>	- "Introduction to DataCamp Projects"<br>	- "Optimizing Online Sports Retail Revenue"<br>	- "Analyzing American Baby Name Trends"<br>	- "Analyzing NYC Public School Test Result Scores"<br>   Data Visualization<br>	- "Introduction to DataCamp Projects"<br>   Importing & Cleaning Data<br>	- "Analyze International Debt Statistics"<br>	- "Introduction to DataCamp Projects"<br>   Programming<br>	- "Analyzing NYC Public School Test Result Scores"<br>
 
+
 - **Unguided**: projects with relatively few instructions.
     - 3 unguided projects
     
