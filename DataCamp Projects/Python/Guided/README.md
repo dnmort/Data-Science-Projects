@@ -4,7 +4,7 @@
 
 These are **Guided** projects, with detailed instructions and tests for checking results.
 
-<u>Projects listed by category</u>:
+<ins>Projects listed by category</ins>:
      Applied Finance
   	- "Predicting Credit Card Approvals"
      Case Studies
