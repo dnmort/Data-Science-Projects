@@ -3,6 +3,6 @@
 
 **Unguided Projects** come with relatively few instructions.
 
-<ins>Projects listed by category</ins>:<br>   Case Studies<br>	- "Analyzing Unicorn Companies"<br>	- "Online News SQL Certification"<br>	- "Symphony Celebration SQL Certification"<br>   Data Manipulation<br>	- "Online News SQL Certification"<br>	- "Symphony Celebration SQL Certification"<br>   Importing & Cleaning Data<br>	- "Analyzing Unicorn Companies"<br>	- "Online News SQL Certification"<br>
+<ins>Projects listed by category</ins>:<br>   Case Studies<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing Unicorn Companies"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Symphony Celebration SQL Certification"<br>   Data Manipulation<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Symphony Celebration SQL Certification"<br>   Importing & Cleaning Data<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing Unicorn Companies"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>
 
 Projects are provided in *.ipynb* (Jupyter notebook), *.html*, & *.pdf* formats.
