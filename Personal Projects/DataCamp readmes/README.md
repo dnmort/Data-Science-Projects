@@ -8,13 +8,13 @@ This repository holds my data science projects, including:
   
   
 ## DataCamp Projects
-![DataCamp Logo](assets/datacamp.png)
+![DataCamp Logo](../assets/datacamp.png)
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)).  
 
 These projects showcase skills I have developed using:
 
 **Python**
-![Python Logo](assets/python.png)
+![Python Logo](../assets/python.png)
 	- 8 guided projects
 	- 0 unguided projects
 
@@ -30,7 +30,7 @@ These projects showcase skills I have developed using:
 
 
 **SQL** (SQL server)
-![SQL Logo](assets/SQL.png)
+![SQL Logo](../assets/SQL.png)
 	- 7 guided projects
 	- 3 unguided projects
 
@@ -47,7 +47,7 @@ These projects showcase skills I have developed using:
 
 
 ## BrainStation Projects
-![BrainStation Logo](assets/BrainStation_Primary_Logo.png)
+![BrainStation Logo](../assets/BrainStation_Primary_Logo.png)
 This folder contains projects I completed while in the BrainStation Online Bootcamp (brainstation.io).
 
 These projects showcase skills I have developed in Data Science, including:
@@ -62,7 +62,7 @@ These projects showcase skills I have developed in Data Science, including:
 
 
 ## Regression Models for Predicting Commodity Sales Prices
-![image of corn](assets/corn_image.png)
+![image of corn](../assets/corn_image.png)
 This folder contains all of the files relevant to my BrainStation Capstone Project:
 ***Regression Models for Predicting Commodity Sales Prices***
 by Daniel Mortensen
