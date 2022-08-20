@@ -2,7 +2,8 @@
 ![Python Logo](../../assets/python.png)   
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
 
-- **Guided**: projects with detailed instructions and tests for checking results.
+### Guided   
+(projects with detailed instructions and tests for checking results)
     - 9 guided projects
 
 <ins>Projects listed by category</ins>:   
@@ -58,7 +59,8 @@ Programming
 
 
 
-- **Unguided**: projects with relatively few instructions.
+### Unguided   
+(projects with relatively few instructions)
     - 0 unguided projects
     
 <ins>Projects listed by category</ins>:   
