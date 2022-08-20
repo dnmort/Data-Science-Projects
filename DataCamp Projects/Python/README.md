@@ -3,8 +3,8 @@
 This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **Python**
 
 ### Guided   
-(projects with detailed instructions and tests for checking results)
-    - 9 guided projects
+
+    - 9 guided projects (projects with detailed instructions and tests for checking results)
 
 <ins>Projects listed by category</ins>:   
    
@@ -60,8 +60,8 @@ Programming
 
 
 ### Unguided   
-(projects with relatively few instructions)
-    - 0 unguided projects
+
+    - 0 unguided projects (projects with relatively few instructions)
     
 <ins>Projects listed by category</ins>:   
 

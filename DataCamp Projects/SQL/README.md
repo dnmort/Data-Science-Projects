@@ -4,8 +4,8 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 (SQL server, in a Jupyter Notebook)
 
 ### Guided   
-(projects with detailed instructions and tests for checking results)
-    - 7 guided projects
+
+    - 7 guided projects (projects with detailed instructions and tests for checking results)
 
 <ins>Projects listed by category</ins>:   
    
@@ -34,8 +34,8 @@ Programming
 
 
 ### Unguided   
-(projects with relatively few instructions)
-    - 3 unguided projects
+
+    - 3 unguided projects (projects with relatively few instructions)
     
 <ins>Projects listed by category</ins>:   
    
