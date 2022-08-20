@@ -15,10 +15,8 @@ These projects showcase skills I have developed using:
    
 ### Python   
 ![Python Logo](assets/python.png)    
-- 9 guided projects   
-- 0 unguided projects   
-- **Guided**: projects with detailed instructions and tests for checking results.   
-- **Unguided**: projects with relatively few instructions.   
+- 9 guided projects (projects with detailed instructions and tests for checking results)   
+- 0 unguided projects (projects with relatively few instructions)   
    
 <ins>These projects focus on the following topics</ins>:   
 - Applied Finance   
@@ -34,10 +32,8 @@ These projects showcase skills I have developed using:
 ### SQL   
 (SQL server)   
 ![SQL Logo](assets/SQL.png)   
-- 7 guided projects   
-- 3 unguided projects   
-- **Guided**: projects with detailed instructions and tests for checking results.   
-- **Unguided**: projects with relatively few instructions.   
+- 7 guided projects (projects with detailed instructions and tests for checking results)   
+- 3 unguided projects (projects with relatively few instructions)   
    
 <ins>These projects focus on the following topics</ins>:   
 - Case Studies   
