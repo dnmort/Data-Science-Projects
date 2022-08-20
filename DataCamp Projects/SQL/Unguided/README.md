@@ -7,15 +7,15 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 
 <ins>Projects listed by category</ins>:   
    Case Studies   
-  	- "Analyzing Unicorn Companies"   
-	- "Online News SQL Certification"   
-	- "Symphony Celebration SQL Certification"   
+  - "Analyzing Unicorn Companies"   
+- "Online News SQL Certification"   
+- "Symphony Celebration SQL Certification"   
    Data Manipulation   
-  	- "Online News SQL Certification"   
-	- "Symphony Celebration SQL Certification"   
+  - "Online News SQL Certification"   
+- "Symphony Celebration SQL Certification"   
    Importing & Cleaning Data   
-  	- "Analyzing Unicorn Companies"   
-	- "Online News SQL Certification"   
+  - "Analyzing Unicorn Companies"   
+- "Online News SQL Certification"   
 
 
 Projects are provided in *.ipynb* (Jupyter notebook), *.html*, & *.pdf* formats.

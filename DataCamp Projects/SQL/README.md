@@ -8,22 +8,22 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 
 <ins>Projects listed by category</ins>:   
    Case Studies   
-  	- "Introduction to DataCamp Projects"   
+  - "Introduction to DataCamp Projects"   
    Data Manipulation   
-  	- "When Was the Golden Age of Video Games?"   
-	- "What and Where are the World's Oldest Businesses"   
-	- "Analyze International Debt Statistics"   
-	- "Introduction to DataCamp Projects"   
-	- "Optimizing Online Sports Retail Revenue"   
-	- "Analyzing American Baby Name Trends"   
-	- "Analyzing NYC Public School Test Result Scores"   
+  - "When Was the Golden Age of Video Games?"   
+- "What and Where are the World's Oldest Businesses"   
+- "Analyze International Debt Statistics"   
+- "Introduction to DataCamp Projects"   
+- "Optimizing Online Sports Retail Revenue"   
+- "Analyzing American Baby Name Trends"   
+- "Analyzing NYC Public School Test Result Scores"   
    Data Visualization   
-  	- "Introduction to DataCamp Projects"   
+  - "Introduction to DataCamp Projects"   
    Importing & Cleaning Data   
-  	- "Analyze International Debt Statistics"   
-	- "Introduction to DataCamp Projects"   
+  - "Analyze International Debt Statistics"   
+- "Introduction to DataCamp Projects"   
    Programming   
-  	- "Analyzing NYC Public School Test Result Scores"   
+  - "Analyzing NYC Public School Test Result Scores"   
 
 
 
@@ -32,13 +32,13 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
     
 <ins>Projects listed by category</ins>:   
    Case Studies   
-  	- "Analyzing Unicorn Companies"   
-	- "Online News SQL Certification"   
-	- "Symphony Celebration SQL Certification"   
+  - "Analyzing Unicorn Companies"   
+- "Online News SQL Certification"   
+- "Symphony Celebration SQL Certification"   
    Data Manipulation   
-  	- "Online News SQL Certification"   
-	- "Symphony Celebration SQL Certification"   
+  - "Online News SQL Certification"   
+- "Symphony Celebration SQL Certification"   
    Importing & Cleaning Data   
-  	- "Analyzing Unicorn Companies"   
-	- "Online News SQL Certification"   
+  - "Analyzing Unicorn Companies"   
+- "Online News SQL Certification"   
 
