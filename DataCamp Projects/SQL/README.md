@@ -7,9 +7,9 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
     - 7 guided projects
 
 <ins>Projects listed by category</ins>:   
-   Case Studies   
+Case Studies   
   - "Introduction to DataCamp Projects"   
-   Data Manipulation   
+Data Manipulation   
   - "When Was the Golden Age of Video Games?"   
 - "What and Where are the World's Oldest Businesses"   
 - "Analyze International Debt Statistics"   
@@ -17,12 +17,12 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 - "Optimizing Online Sports Retail Revenue"   
 - "Analyzing American Baby Name Trends"   
 - "Analyzing NYC Public School Test Result Scores"   
-   Data Visualization   
+Data Visualization   
   - "Introduction to DataCamp Projects"   
-   Importing & Cleaning Data   
+Importing & Cleaning Data   
   - "Analyze International Debt Statistics"   
 - "Introduction to DataCamp Projects"   
-   Programming   
+Programming   
   - "Analyzing NYC Public School Test Result Scores"   
 
 
@@ -31,14 +31,14 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
     - 3 unguided projects
     
 <ins>Projects listed by category</ins>:   
-   Case Studies   
+Case Studies   
   - "Analyzing Unicorn Companies"   
 - "Online News SQL Certification"   
 - "Symphony Celebration SQL Certification"   
-   Data Manipulation   
+Data Manipulation   
   - "Online News SQL Certification"   
 - "Symphony Celebration SQL Certification"   
-   Importing & Cleaning Data   
+Importing & Cleaning Data   
   - "Analyzing Unicorn Companies"   
 - "Online News SQL Certification"   
 

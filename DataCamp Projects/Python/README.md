@@ -6,13 +6,13 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
     - 9 guided projects
 
 <ins>Projects listed by category</ins>:   
-   Applied Finance   
+Applied Finance   
   - "Predicting Credit Card Approvals"   
-   Case Studies   
+Case Studies   
   - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
-   Data Manipulation   
+Data Manipulation   
   - "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
@@ -21,7 +21,7 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
-   Data Visualization   
+Data Visualization   
   - "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
@@ -29,7 +29,7 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
-   Importing & Cleaning Data   
+Importing & Cleaning Data   
   - "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
@@ -37,14 +37,14 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 - "The Hottest Topics in Machine Learning"   
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
-   Machine Learning   
+Machine Learning   
   - "Predicting Credit Card Approvals"   
 - "The Hottest Topics in Machine Learning"   
-   Probability & Statistics   
+Probability & Statistics   
   - "The Android App Market on Google Play"   
 - "The Hottest Topics in Machine Learning"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
-   Programming   
+Programming   
   - "Writing Functions for Product Analysis"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
 
