@@ -17,7 +17,8 @@ Python
 ![Python Logo](assets/python.png)    
 	- 9 guided projects   
 	- 0 unguided projects   
-   
+  
+  
 	<ins>These projects focus on the following topics</ins>:   
 	- Applied Finance   
 	- Case Studies   
