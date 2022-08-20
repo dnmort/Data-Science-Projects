@@ -1,13 +1,44 @@
 # SQL Projects (DataCamp)  
-![SQL Logo](../../assets/SQL.png)<br>This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **SQL**<br>(SQL server, in a Jupyter Notebook)
+![SQL Logo](../../assets/SQL.png)   
+This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.com)) using **SQL**   
+(SQL server, in a Jupyter Notebook)
 
 - **Guided**: projects with detailed instructions and tests for checking results.
     - 7 guided projects
 
-<ins>Projects listed by category</ins>:<br>   Case Studies<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Introduction to DataCamp Projects"<br>   Data Manipulation<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "When Was the Golden Age of Video Games?"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "What and Where are the World's Oldest Businesses"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyze International Debt Statistics"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Introduction to DataCamp Projects"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Optimizing Online Sports Retail Revenue"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing American Baby Name Trends"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing NYC Public School Test Result Scores"<br>   Data Visualization<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Introduction to DataCamp Projects"<br>   Importing & Cleaning Data<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyze International Debt Statistics"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Introduction to DataCamp Projects"<br>   Programming<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing NYC Public School Test Result Scores"<br>
+<ins>Projects listed by category</ins>:   
+   Case Studies   
+  	- "Introduction to DataCamp Projects"   
+   Data Manipulation   
+  	- "When Was the Golden Age of Video Games?"   
+	- "What and Where are the World's Oldest Businesses"   
+	- "Analyze International Debt Statistics"   
+	- "Introduction to DataCamp Projects"   
+	- "Optimizing Online Sports Retail Revenue"   
+	- "Analyzing American Baby Name Trends"   
+	- "Analyzing NYC Public School Test Result Scores"   
+   Data Visualization   
+  	- "Introduction to DataCamp Projects"   
+   Importing & Cleaning Data   
+  	- "Analyze International Debt Statistics"   
+	- "Introduction to DataCamp Projects"   
+   Programming   
+  	- "Analyzing NYC Public School Test Result Scores"   
+
 
 
 - **Unguided**: projects with relatively few instructions.
     - 3 unguided projects
     
-<ins>Projects listed by category</ins>:<br>   Case Studies<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing Unicorn Companies"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Symphony Celebration SQL Certification"<br>   Data Manipulation<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Symphony Celebration SQL Certification"<br>   Importing & Cleaning Data<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Analyzing Unicorn Companies"<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- "Online News SQL Certification"<br>
+<ins>Projects listed by category</ins>:   
+   Case Studies   
+  	- "Analyzing Unicorn Companies"   
+	- "Online News SQL Certification"   
+	- "Symphony Celebration SQL Certification"   
+   Data Manipulation   
+  	- "Online News SQL Certification"   
+	- "Symphony Celebration SQL Certification"   
+   Importing & Cleaning Data   
+  	- "Analyzing Unicorn Companies"   
+	- "Online News SQL Certification"   
+
