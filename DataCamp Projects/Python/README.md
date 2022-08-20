@@ -6,14 +6,17 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
     - 9 guided projects
 
 <ins>Projects listed by category</ins>:   
+   
 Applied Finance   
-  - "Predicting Credit Card Approvals"   
+- "Predicting Credit Card Approvals"   
+   
 Case Studies   
-  - "Introduction to DataCamp Projects"   
+- "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
+   
 Data Manipulation   
-  - "A Visual History of Nobel Prize Winners"   
+- "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
 - "Predicting Credit Card Approvals"   
@@ -21,31 +24,36 @@ Data Manipulation
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
+   
 Data Visualization   
-  - "A Visual History of Nobel Prize Winners"   
+- "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
 - "The Hottest Topics in Machine Learning"   
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
+   
 Importing & Cleaning Data   
-  - "A Visual History of Nobel Prize Winners"   
+- "A Visual History of Nobel Prize Winners"   
 - "The Android App Market on Google Play"   
 - "The GitHub History of the Scala Language"   
 - "Predicting Credit Card Approvals"   
 - "The Hottest Topics in Machine Learning"   
 - "Introduction to DataCamp Projects"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
+   
 Machine Learning   
-  - "Predicting Credit Card Approvals"   
+- "Predicting Credit Card Approvals"   
 - "The Hottest Topics in Machine Learning"   
+   
 Probability & Statistics   
-  - "The Android App Market on Google Play"   
+- "The Android App Market on Google Play"   
 - "The Hottest Topics in Machine Learning"   
 - "Dr. Semmelweis and the Discovery of Handwashing"   
+   
 Programming   
-  - "Writing Functions for Product Analysis"   
+- "Writing Functions for Product Analysis"   
 - "Investigating Netflix Movies and Guest Stars in The Office"   
 
 

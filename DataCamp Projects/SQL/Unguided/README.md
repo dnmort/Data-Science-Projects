@@ -6,15 +6,18 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 **Unguided Projects** come with relatively few instructions.
 
 <ins>Projects listed by category</ins>:   
+   
 Case Studies   
-  - "Analyzing Unicorn Companies"   
+- "Analyzing Unicorn Companies"   
 - "Online News SQL Certification"   
 - "Symphony Celebration SQL Certification"   
+   
 Data Manipulation   
-  - "Online News SQL Certification"   
+- "Online News SQL Certification"   
 - "Symphony Celebration SQL Certification"   
+   
 Importing & Cleaning Data   
-  - "Analyzing Unicorn Companies"   
+- "Analyzing Unicorn Companies"   
 - "Online News SQL Certification"   
 
 
