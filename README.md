@@ -17,9 +17,8 @@ These projects showcase skills I have developed using:
 ![Python Logo](assets/python.png)    
 	- 9 guided projects   
 	- 0 unguided projects   
-  
-  
-	<ins>These projects focus on the following topics</ins>:   
+   
+<ins>These projects focus on the following topics</ins>:   
 	- Applied Finance   
 	- Case Studies   
 	- Data Manipulation   
@@ -30,13 +29,13 @@ These projects showcase skills I have developed using:
 	- Programming   
    
    
-SQL   
+### SQL   
 (SQL server)   
 ![SQL Logo](assets/SQL.png)   
 	- 7 guided projects   
 	- 3 unguided projects   
    
-	<ins>These projects focus on the following topics</ins>:   
+<ins>These projects focus on the following topics</ins>:   
 	- Case Studies   
 	- Data Manipulation   
 	- Data Visualization   

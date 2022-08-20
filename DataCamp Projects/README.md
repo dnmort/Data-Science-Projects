@@ -4,12 +4,12 @@ This folder contains projects I completed on DataCamp ([datacamp.com](datacamp.c
 
 These projects showcase skills I have developed using:   
    
-Python   
+### Python   
 ![Python Logo](../assets/python.png)    
 	- 9 guided projects   
 	- 0 unguided projects   
    
-	<ins>These projects focus on the following topics</ins>:   
+<ins>These projects focus on the following topics</ins>:   
 	- Applied Finance   
 	- Case Studies   
 	- Data Manipulation   
@@ -20,13 +20,13 @@ Python
 	- Programming   
    
    
-SQL   
+### SQL   
 (SQL server)   
 ![SQL Logo](../assets/SQL.png)   
 	- 7 guided projects   
 	- 3 unguided projects   
    
-	<ins>These projects focus on the following topics</ins>:   
+<ins>These projects focus on the following topics</ins>:   
 	- Case Studies   
 	- Data Manipulation   
 	- Data Visualization   
